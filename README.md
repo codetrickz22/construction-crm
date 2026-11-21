@@ -27,6 +27,17 @@ SiteTrack Pro helps construction businesses manage projects, daily site activiti
 
 Screenshots of the application dashboard and major modules will be added here.
 
+## Live Demo
+
+Explore SiteTrack Pro – Construction CRM & Project Management System.
+
+**Demo URL:** https://sitetrack.codetrickz.com
+
+### Demo Login Credentials
+
+**Username:** admin  
+**Password:** 123456
+
 ## Project Purpose
 
 This repository demonstrates my experience developing custom business applications, CRM systems, project management tools, database-driven dashboards, and role-based management solutions.
